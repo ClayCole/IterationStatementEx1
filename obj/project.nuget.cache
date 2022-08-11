@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Y43WN48f2X5kaqkXSfOfe5ZEqIEF47zi+N2nmbdYhu/VAm5FcVBKptV5MZZPA6/kUr+wiMUC9hvyuqOQ6nJeA==",
+  "success": true,
+  "projectFilePath": "/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/IterationStatements.csproj",
+  "expectedPackageFiles": [
+    "/Users/claycoleman/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/claycoleman/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/claycoleman/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.csproj.AssemblyReference.cache
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.AssemblyInfoInputs.cache
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.AssemblyInfo.cs
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.deps.json
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.runtimeconfig.json
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.runtimeconfig.dev.json
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.dll
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.pdb
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.dll
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.pdb
+/Users/claycoleman/Desktop/Repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.genruntimeconfig.cache
